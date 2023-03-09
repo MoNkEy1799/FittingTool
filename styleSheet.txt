@@ -1,0 +1,27 @@
+QWidget
+{
+    background: #31343f;
+}
+
+QPushButton
+{
+    background: #41444c;
+    color:      #c4c4c4;
+}
+
+QPushButton::hover
+{
+    background: #616571;
+}
+
+QCheckBox
+{
+    background: #31343f;
+    color:      #c4c4c4;
+}
+
+QCheckBox::indeterminate::hover
+{
+    background: #31343f;
+    color:      #c4c4c4;
+}
